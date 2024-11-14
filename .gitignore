@@ -2,6 +2,6 @@ node_modules
 out
 cache
 broadcast
-*.lock.yaml
+*lock.yaml
 .env
 .vscode
