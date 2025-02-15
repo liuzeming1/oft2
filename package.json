@@ -15,6 +15,6 @@
     "@layerzerolabs/lz-evm-oapp-v2": "^2.1.23",
     "@layerzerolabs/lz-evm-protocol-v2": "^2.1.23",
     "@layerzerolabs/toolbox-foundry": "^0.1.2",
-    "@openzeppelin/contracts": "^5.0.2"
+    "@openzeppelin/contracts": "^5.2.0"
   }
 }
